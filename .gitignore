@@ -1,0 +1,8 @@
+private/**
+temp/**
+data/pers/**
+data/work/**
+data/temp/**
+*.db
+*.npy
+.ipynb_checkpoints/
