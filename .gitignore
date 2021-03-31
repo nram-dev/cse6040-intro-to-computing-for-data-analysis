@@ -6,3 +6,4 @@ data/temp/**
 *.db
 *.npy
 .ipynb_checkpoints/
+python-reference.code-workspace
